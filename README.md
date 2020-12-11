@@ -1,16 +1,7 @@
-# treasuremapp_book
+#app_book
+On the home page, the user will see a text field to search for books. After pressing the search button, if books are found, they will see a list of books, with their title and description. For each list, there will be a button that will allow the user to add a book to their favorites. The favorite books will be saved locally.
 
-A new Flutter project.
+One of the challenges in having to deal with different form factors is the way you use the space on the screen. So, we will add a small tweak to the app. If the screen is "small", such as in a smartphone, the user will see ListView; otherwise, they will see a table.
 
-## Getting Started
+![app_book](https://github.com/Emadsh24/My-Book-/blob/main/myBook.jpg"app_book")
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
